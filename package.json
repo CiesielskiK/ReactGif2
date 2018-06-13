@@ -1,0 +1,23 @@
+{
+  "name": "ReactGif",
+  "version": "1.0.0",
+  "description": "kodilla-task-14.8, Gif search engine created in ReactJS",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CiesielskiK/ReactGif2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CiesielskiK/ReactGif2/issues"
+  },
+  "homepage": "https://github.com/CiesielskiK/ReactGif2#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}

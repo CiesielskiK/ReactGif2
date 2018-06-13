@@ -1,1 +1,2 @@
-# ReactGif2
+# react-gif
+
